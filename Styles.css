@@ -1,0 +1,20 @@
+
+      body {background-color: black;}
+      h1{font-size: 30px; color: red; margin: 30px;}
+      p {font-size: 18px; color: red; margin: 30px;}
+      h2 {font-size: 18px; color:cyan; margin: 100px;}
+      
+
+     video {
+     width: 300px;
+     height: 220px;
+     border: 1px solid #666;
+     }
+   
+
+  center{
+  text-align: center;
+  border: 2px solid Red;
+    }
+
+a{color:floralwhite; font-family:Algerian;}
